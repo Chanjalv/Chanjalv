@@ -3,11 +3,6 @@
 🚀 Aspiring Python Full-Stack Developer | Mechanical Engineer <br>
 🔹 Passionate about building scalable web applications using Python, Django/Flask, JavaScript, and Bootstrap <br>
 🔹 Strong problem-solving skills and a keen interest in backend development & databases <br>
-🔧 Tech Stack: <br>
-🔹Frontend: HTML, CSS, Bootstrap, JavaScript <br>
-🔹Backend: Python (Django) <br>
-🔹Database: MySQL <br>
-🔹Version Control & Tools: Git, GitHub <br>
 
 
 ## 🌐 Socials:
