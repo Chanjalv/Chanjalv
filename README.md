@@ -1,6 +1,6 @@
 👋 Hi, I'm Chanjal!
 
-🚀 Aspiring Python Full-Stack Developer | Mechanical Engineer <br>
+🚀 Aspiring Python Full-Stack Development | Mechanical Engineer <br>
 🔹 Passionate about building scalable web applications using Python, Django/Flask, JavaScript, and Bootstrap <br>
 🔹 Strong problem-solving skills and a keen interest in backend development & databases <br>
 
